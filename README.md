@@ -11,3 +11,5 @@ Find your rhythm with Pulse! Pulse is a social media and networking app that all
 4. Advertise your party
 
 ## Technologies
+<img src = "Assets/Technologies/Xcode Logo.png" width = 200 height = 200>
+<img src = "Assets/Technologies/Figma Logo.png" width = 200 height = 200>
